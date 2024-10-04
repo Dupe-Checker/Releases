@@ -11,7 +11,7 @@ The **Hypixel Skyblock Dupe Checker** is a **ChatTriggers** module designed to h
 ## How It Works
 The module checks for item metadata issues such as:
 - Invalid UUIDs.
-- Suspicious item properties (e.g., impossible enchantment levels, incorrect rarity).
+- Suspicious item properties (e.g., duplicating uuids, buggy properties, etc).
 - Known dupe patterns.
 
 It then notifies the player if any potentially duped items are detected, helping you avoid the risk of penalties from Hypixel Skyblock.
