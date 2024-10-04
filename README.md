@@ -26,7 +26,7 @@ It then notifies the player if any potentially duped items are detected, helping
 ### Steps
 1. **Install ChatTriggers**: Download and install [ChatTriggers](https://www.chattriggers.com/) if you don't have it already.
 2. **Install the Module**:
-   - Open Minecraft and type `/ct import dupeChecker` to install the module from ChatTriggers.
+   - Place the jar into your mods folder then open Hypixel and type `/ct import dupeChecker` to install the module from ChatTriggers.
 3. **Reload ChatTriggers**: After installation, type `/ct load` to reload all modules and enable the Dupe Checker.
    
 ## Commands
