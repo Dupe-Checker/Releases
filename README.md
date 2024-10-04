@@ -48,3 +48,4 @@ This module is open source, and contributions are welcome! To contribute:
 
 ## Disclaimer
 This ChatTriggers module is **unofficial** and is not endorsed by Hypixel or Mojang. Use at your own risk. Detection of duped items is based on best-known patterns and does not guarantee accuracy.
+![image](https://github.com/user-attachments/assets/b7a17a02-5902-40fc-b3e2-8e419d663c34)
