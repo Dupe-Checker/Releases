@@ -21,7 +21,7 @@ It then notifies the player if any potentially duped items are detected, helping
 ### Requirements
 - Minecraft 1.8.9 (Optimized for Hypixel Skyblock)
 - ChatTriggers mod (installed in your Minecraft mods folder)
-- Java 8 (or higher)
+- Dupe-Checker .jar module
 
 ### Steps
 1. **Install ChatTriggers**: Download and install [ChatTriggers](https://www.chattriggers.com/) if you don't have it already.
